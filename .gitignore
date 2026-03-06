@@ -16,3 +16,4 @@ dist/
 # General
 .DS_Store
 Thumbs.db
+BackEnd/KeellsBackend/appsettings.json 
