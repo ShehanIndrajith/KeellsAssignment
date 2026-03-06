@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|d:\\keells assignment\\backend\\keellsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|d:\\keells assignment\\backend\\keellsbackend\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|d:\\keells assignment\\backend\\keellsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|d:\\keells assignment\\backend\\keellsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B7B72FD3-9515-9993-001A-80EFF9DD8DFA}|KeellsBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,19 +95,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Services\\Interfaces\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IDepartmentService.cs",
-              "ToolTip": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Services\\Interfaces\\IDepartmentService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IDepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:38:10.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Services\\Interfaces\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IEmployeeService.cs",
@@ -115,12 +102,11 @@
               "RelativeToolTip": "Services\\Interfaces\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:06:05.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:06:05.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
@@ -128,12 +114,11 @@
               "RelativeToolTip": "Services\\EmployeeService.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAkwG8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:06:34.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:06:34.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Services\\DepartmentService.cs",
@@ -141,12 +126,11 @@
               "RelativeToolTip": "Services\\DepartmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:38:38.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:38:38.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
@@ -159,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
@@ -167,12 +151,36 @@
               "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAwwJoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:04:11.612Z",
+              "WhenOpened": "2026-03-05T20:04:11.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T18:54:49.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:38:10.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Repositories\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\DepartmentRepository.cs",
@@ -180,12 +188,11 @@
               "RelativeToolTip": "Repositories\\DepartmentRepository.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAIwEwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:32:18.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:32:18.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Repositories\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IEmployeeRepository.cs",
@@ -193,12 +200,11 @@
               "RelativeToolTip": "Repositories\\Interfaces\\IEmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:03:31.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:03:31.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Repositories\\Interfaces\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IDepartmentRepository.cs",
@@ -206,12 +212,11 @@
               "RelativeToolTip": "Repositories\\Interfaces\\IDepartmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:31:11.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:31:11.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -219,12 +224,11 @@
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:04:37.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:04:37.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
@@ -232,12 +236,11 @@
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wBMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:03:49.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:03:49.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EmailValidator.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Helpers\\EmailValidator.cs",
               "RelativeDocumentMoniker": "Helpers\\EmailValidator.cs",
@@ -245,12 +248,11 @@
               "RelativeToolTip": "Helpers\\EmailValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:02:42.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:02:42.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AgeCalculator.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Helpers\\AgeCalculator.cs",
               "RelativeDocumentMoniker": "Helpers\\AgeCalculator.cs",
@@ -258,12 +260,11 @@
               "RelativeToolTip": "Helpers\\AgeCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:02:07.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:02:07.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\DTOs\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeDto.cs",
@@ -271,12 +272,11 @@
               "RelativeToolTip": "DTOs\\EmployeeDto.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAiwA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:01:40.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:01:40.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DepartmentDto.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\DTOs\\DepartmentDto.cs",
               "RelativeDocumentMoniker": "DTOs\\DepartmentDto.cs",
@@ -284,12 +284,11 @@
               "RelativeToolTip": "DTOs\\DepartmentDto.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:29:12.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:29:12.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SqlConnectionFactory.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Data\\SqlConnectionFactory.cs",
               "RelativeDocumentMoniker": "Data\\SqlConnectionFactory.cs",
@@ -297,12 +296,11 @@
               "RelativeToolTip": "Data\\SqlConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:42:38.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:42:38.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
@@ -310,25 +308,11 @@
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:07:10.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:07:10.547Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-05T18:54:49.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Keells Assignment\\BackEnd\\KeellsBackend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -336,8 +320,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:00:43.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T19:00:43.622Z"
             }
           ]
         }
