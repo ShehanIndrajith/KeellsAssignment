@@ -1,0 +1,6 @@
+@KeellsBackend_HostAddress = http://localhost:5254
+
+GET {{KeellsBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
