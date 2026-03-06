@@ -61,6 +61,7 @@ D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\KeellsBackend.Assem
 D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\KeellsBackend.csproj.CoreCompileInputs.cache
 D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\KeellsBackend.MvcApplicationPartsAssemblyInfo.cs
 D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\KeellsBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\KeellsBackend.sourcelink.json
 D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\Keells Assignment\BackEnd\KeellsBackend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeellsBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffcd5648d6a03ee2c12a600d36ccc8bbd38ffeba")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeellsBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeellsBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

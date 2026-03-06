@@ -274,7 +274,7 @@ const handleReactivate = async () => {
         isOpen={!!deleteTarget}
         onClose={() => setDeleteTarget(null)}
         onConfirm={handleDelete}
-        message={`Are you sure you want to delete "${deleteTarget?.departmentName}"? This cannot be undone.`}
+        message={`Are you sure you want to delete "${deleteTarget?.departmentName}"?`}
       />
 
       <ConfirmDialog
