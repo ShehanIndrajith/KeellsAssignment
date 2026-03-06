@@ -1,6 +1,6 @@
 # .NET
 BackEnd/KeellsBackend/bin/
-BackEnd/KeellsBackend/bin/
+BackEnd/KeellsBackend/obj/
 *.user
 *.suo
 .vs/
