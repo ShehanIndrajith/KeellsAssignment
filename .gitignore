@@ -4,7 +4,7 @@ obj/
 *.user
 *.suo
 .vs/
-appsettings.Development.json
+BackEnd/KeellsBackend/appsettings.Development.json
 *.db
 
 # ReactJs
