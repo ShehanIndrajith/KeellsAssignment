@@ -31,6 +31,10 @@ Full-stack HR management system built for the Keells internship assignment.
 - Email validation
 - React routing
 
+## Database Setup
+1. Open SQL Server Management Studio
+2. Run the script at `Backend/Database/script.sql`
+
 ### Database file
 backend/
 └── Database/
