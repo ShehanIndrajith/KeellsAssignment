@@ -4,7 +4,7 @@ obj/
 *.user
 *.suo
 .vs/
-appsettings.Development.json        # ← hide sensitive config
+appsettings.Development.json
 *.db
 
 # ReactJs
