@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+appsettings.Development.json        # ← hide sensitive config
+*.db
+
+# ReactJs
+node_modules/
+dist/
+.env
+.env.local
+
+# General
+.DS_Store
+Thumbs.db
